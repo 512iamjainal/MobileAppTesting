@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-10-13T22:08:12 CEST" name="Default suite" finished-at="2025-10-13T22:08:18 CEST" duration-ms="6637">
+  <suite started-at="2025-10-14T23:26:46 CEST" name="Default suite" finished-at="2025-10-14T23:26:57 CEST" duration-ms="11716">
     <groups>
     </groups>
-    <test started-at="2025-10-13T22:08:12 CEST" name="Default test" finished-at="2025-10-13T22:08:18 CEST" duration-ms="6637">
-      <class name="com.MobileApp.CreateSession.DriverSessionUsingDesiredCapabilities">
-        <test-method signature="testDriverSession()[pri:0, instance:com.MobileApp.CreateSession.DriverSessionUsingDesiredCapabilities@f5ac9e4]" started-at="2025-10-13T22:08:12 CEST" name="testDriverSession" finished-at="2025-10-13T22:08:18 CEST" duration-ms="6620" status="PASS">
+    <test started-at="2025-10-14T23:26:46 CEST" name="Default test" finished-at="2025-10-14T23:26:57 CEST" duration-ms="11716">
+      <class name="com.MobileApp.TestScenarios.T03_LongClickGesture">
+        <test-method signature="testLongClickGesture()[pri:0, instance:com.MobileApp.TestScenarios.T03_LongClickGesture@5bd03f44]" started-at="2025-10-14T23:26:46 CEST" name="testLongClickGesture" finished-at="2025-10-14T23:26:57 CEST" duration-ms="11699" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testDriverSession -->
-      </class> <!-- com.MobileApp.CreateSession.DriverSessionUsingDesiredCapabilities -->
+        </test-method> <!-- testLongClickGesture -->
+      </class> <!-- com.MobileApp.TestScenarios.T03_LongClickGesture -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

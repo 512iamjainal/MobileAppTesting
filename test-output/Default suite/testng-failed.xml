@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.MobileApp.CreateSession.DriverSessionUsingDesiredCapabilities">
+      <class name="com.MobileApp.TestScenarios.T08_TakeScreenshot">
         <methods>
-          <include name="testDriverSession"/>
+          <include name="testTakeScreenshot"/>
         </methods>
-      </class> <!-- com.MobileApp.CreateSession.DriverSessionUsingDesiredCapabilities -->
+      </class> <!-- com.MobileApp.TestScenarios.T08_TakeScreenshot -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
